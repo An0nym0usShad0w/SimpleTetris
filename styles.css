@@ -1,0 +1,25 @@
+.grid {
+  text-align: center;
+  width: 200px;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: yellow;
+}
+
+.grid div {
+  text-align: center;
+  width: 20px;
+  height: 20px;
+  background-color: skyblue;
+}
+
+.tetromino {
+  text-align: center;
+  background-color: blue;
+}
+
+body{
+  margin-left: 40vw;
+  background-color: rgb(195,195,195,0.95);
+}
